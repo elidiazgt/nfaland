@@ -10,9 +10,9 @@ banner:
     is_primary: true
   bottom_link:
     label: Ver Catalogo
-    url: Http://store.ninfastyle.com
-    has_arrow: true
-    is_scrolly: true
+    url: http://store.ninfastyle.com
+    has_arrow: false
+    is_scrolly: false
 sections:
 - type: icons
   template: icons
