@@ -38,4 +38,4 @@ fields:
   config:
     required: true
 pages:
-- src/pages/generic.md
+- src/pages/about-us.md
