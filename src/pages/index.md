@@ -10,7 +10,7 @@ banner:
     is_primary: true
   bottom_link:
     label: Ver Catalogo
-    url: "/generic"
+    url: about-us
     has_arrow: false
     is_scrolly: false
 sections:
